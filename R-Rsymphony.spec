@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.1_14
-Release:          1
+Release:          2
 Summary:          Symphony in R
 Group:            Sciences/Mathematics
 License:          EPL
