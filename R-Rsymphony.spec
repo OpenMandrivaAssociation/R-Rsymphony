@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.1_14
-Release:          2
+Version:          0.1.16
+Release:          1
 Summary:          Symphony in R
 Group:            Sciences/Mathematics
 License:          EPL
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.1-14.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/Rsymphony_0.1-16.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    coin-or-devel
 BuildRequires:    blas-devel
