@@ -7,7 +7,7 @@ Release:          1
 Summary:          Symphony in R
 Group:            Sciences/Mathematics
 License:          EPL
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/Rsymphony_0.1-16.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 BuildRequires:    coin-or-devel
